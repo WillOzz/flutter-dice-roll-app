@@ -1,16 +1,14 @@
-# first_app
+# Flutter Dice Roll App
 
-A new Flutter project.
+This is a simple dice roll application built using Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Roll a dice with a tap
+- Simple and intuitive UI
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/WillOzz/flutter-dice-roll-app
